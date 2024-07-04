@@ -1,3 +1,7 @@
+
+<div align="center">
+  <img width="500" src="https://i.pinimg.com/originals/89/2a/b7/892ab776279414977933b566575cf62d.gif"  />
+</div>
 <div >
 <h1 align="center">Hi 👋, I'm Yusuf Yıldırım <br/> A passionate Front-End Developer from Türkiye</h1>
 </div>
