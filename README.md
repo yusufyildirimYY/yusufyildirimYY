@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yusuf Yıldırım</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
-
+<div >
+<h1 align="center">Hi 👋, I'm Yusuf Yıldırım <br/> A passionate Front-End Developer from Türkiye</h1>
+</div>
 
 <img height="50" />
 
@@ -22,15 +22,8 @@
 <img width="12" />
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 
-
-
-
-
-
-
-
-
 </div>
+
 <img height="50" />
 
 <div align="center">
